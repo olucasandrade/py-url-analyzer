@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='py-url-analyzer',
-    version='0.0.1',
+    version='0.0.2',
     packages=find_packages(),
     author='Lucas Andrade',
     author_email='lafdesouza2002@gmail.com',
