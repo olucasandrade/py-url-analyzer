@@ -9,7 +9,7 @@ setup(
     description='A simple URL analyzer',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/seu-usuario/seu-projeto',
+    url='https://github.com/olucasandrade/py-url-analyzer',
     install_requires=[
         'beautifulsoup4',
         'certifi',
